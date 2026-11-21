@@ -1,0 +1,10 @@
+{
+    "name": "Govinda",
+    "Age": 23,
+    "Gender": "Male",
+    "marks": {
+        "english": 30,
+        "maths": 50,
+        "computer": 100
+    }
+}
