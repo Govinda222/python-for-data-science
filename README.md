@@ -1,5 +1,3 @@
-Here is an updated, clean `README.md` matching your new folder layout (`01-python-basics`, `02-DSA`, `03-OOP` with `Day 1`–`Day 3`, `04-numpy-pandas`, and `05-SQL`):
-
 ```markdown
 # Python for Data Science
 
